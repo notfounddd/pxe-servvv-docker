@@ -1,0 +1,31 @@
+# Runtime data
+data/
+*.iso
+*.img
+*.wim
+
+# Local environment
+.env
+
+# iVentoy binary distribution
+iventoy/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Docker / temp
+tmp/
+*.tar
+*.tar.gz
+*.zip
+
+# Logs
+*.log
+logs/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
